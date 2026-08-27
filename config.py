@@ -1,0 +1,1 @@
+MATERIAS_VALIDAS = ["biologia", "redes", "direito", "matematica", "historia"]
